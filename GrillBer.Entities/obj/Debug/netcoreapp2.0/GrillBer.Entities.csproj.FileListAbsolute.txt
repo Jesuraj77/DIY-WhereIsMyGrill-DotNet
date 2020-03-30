@@ -1,0 +1,15 @@
+E:\Shilpa\GrillBer\GrillBer.Entities\bin\Debug\netcoreapp2.0\GrillBer.Entities.deps.json
+E:\Shilpa\GrillBer\GrillBer.Entities\bin\Debug\netcoreapp2.0\GrillBer.Entities.dll
+E:\Shilpa\GrillBer\GrillBer.Entities\bin\Debug\netcoreapp2.0\GrillBer.Entities.pdb
+E:\Shilpa\GrillBer\GrillBer.Entities\obj\Debug\netcoreapp2.0\GrillBer.Entities.AssemblyInfoInputs.cache
+E:\Shilpa\GrillBer\GrillBer.Entities\obj\Debug\netcoreapp2.0\GrillBer.Entities.AssemblyInfo.cs
+E:\Shilpa\GrillBer\GrillBer.Entities\obj\Debug\netcoreapp2.0\GrillBer.Entities.dll
+E:\Shilpa\GrillBer\GrillBer.Entities\obj\Debug\netcoreapp2.0\GrillBer.Entities.pdb
+\\WINWEBSERVER\Backup\March-2020\BCT\Shilpa\GrillBer\GrillBer.Entities\bin\Debug\netcoreapp2.0\GrillBer.Entities.deps.json
+\\WINWEBSERVER\Backup\March-2020\BCT\Shilpa\GrillBer\GrillBer.Entities\bin\Debug\netcoreapp2.0\GrillBer.Entities.dll
+\\WINWEBSERVER\Backup\March-2020\BCT\Shilpa\GrillBer\GrillBer.Entities\bin\Debug\netcoreapp2.0\GrillBer.Entities.pdb
+\\WINWEBSERVER\Backup\March-2020\BCT\Shilpa\GrillBer\GrillBer.Entities\obj\Debug\netcoreapp2.0\GrillBer.Entities.csprojAssemblyReference.cache
+\\WINWEBSERVER\Backup\March-2020\BCT\Shilpa\GrillBer\GrillBer.Entities\obj\Debug\netcoreapp2.0\GrillBer.Entities.AssemblyInfoInputs.cache
+\\WINWEBSERVER\Backup\March-2020\BCT\Shilpa\GrillBer\GrillBer.Entities\obj\Debug\netcoreapp2.0\GrillBer.Entities.AssemblyInfo.cs
+\\WINWEBSERVER\Backup\March-2020\BCT\Shilpa\GrillBer\GrillBer.Entities\obj\Debug\netcoreapp2.0\GrillBer.Entities.dll
+\\WINWEBSERVER\Backup\March-2020\BCT\Shilpa\GrillBer\GrillBer.Entities\obj\Debug\netcoreapp2.0\GrillBer.Entities.pdb
